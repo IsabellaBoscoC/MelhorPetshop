@@ -2,7 +2,9 @@
 
 Instruções para Executar:
 Abrir o projeto do back PetShop rodar 
+
 Abrir o projeto do front my-app e rodar o front
+
 Obs: devem rodar separadamente, pois não foi feita a junção dos projetos.
 
 Lista de Premissas:
