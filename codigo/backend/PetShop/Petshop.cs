@@ -17,7 +17,6 @@ namespace PetShop
         public double precoPequenoFimSemana{ get; }
         public double distancia { get; }
         
-
         //Construtor
         public Petshop(string nomePetshop, double precoCaoGrandeFimSemana, double precoCaoGrandeDiaSemana, double precoPequenoFimSemana, double precoPequenoDiaSemana, double distancia)
         {
