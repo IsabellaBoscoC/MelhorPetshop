@@ -1,0 +1,14 @@
+C:\Users\isabe\OneDrive\Área de Trabalho\Nova pasta\Nova pasta\PetShop\PetShop\obj\Debug\net8.0\PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\OneDrive\Área de Trabalho\Nova pasta\Nova pasta\PetShop\PetShop\obj\Debug\net8.0\PetShop.AssemblyInfoInputs.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\Nova pasta\Nova pasta\PetShop\PetShop\obj\Debug\net8.0\PetShop.AssemblyInfo.cs
+C:\Users\isabe\OneDrive\Área de Trabalho\Nova pasta\Nova pasta\PetShop\PetShop\obj\Debug\net8.0\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\Nova pasta\Nova pasta\PetShop\PetShop\bin\Debug\net8.0\PetShop.exe
+C:\Users\isabe\OneDrive\Área de Trabalho\Nova pasta\Nova pasta\PetShop\PetShop\bin\Debug\net8.0\PetShop.deps.json
+C:\Users\isabe\OneDrive\Área de Trabalho\Nova pasta\Nova pasta\PetShop\PetShop\bin\Debug\net8.0\PetShop.runtimeconfig.json
+C:\Users\isabe\OneDrive\Área de Trabalho\Nova pasta\Nova pasta\PetShop\PetShop\bin\Debug\net8.0\PetShop.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\Nova pasta\Nova pasta\PetShop\PetShop\bin\Debug\net8.0\PetShop.pdb
+C:\Users\isabe\OneDrive\Área de Trabalho\Nova pasta\Nova pasta\PetShop\PetShop\obj\Debug\net8.0\PetShop.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\Nova pasta\Nova pasta\PetShop\PetShop\obj\Debug\net8.0\refint\PetShop.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\Nova pasta\Nova pasta\PetShop\PetShop\obj\Debug\net8.0\PetShop.pdb
+C:\Users\isabe\OneDrive\Área de Trabalho\Nova pasta\Nova pasta\PetShop\PetShop\obj\Debug\net8.0\PetShop.genruntimeconfig.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\Nova pasta\Nova pasta\PetShop\PetShop\obj\Debug\net8.0\ref\PetShop.dll
